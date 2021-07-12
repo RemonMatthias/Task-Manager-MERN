@@ -9,7 +9,7 @@
 
   <p align="center">
 A Full-Stack MERN Single-Page App For a Task Manager    <br />
-    <a href="https://github.com/RemonMatthias/LAssiette-React-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RemonMatthias/Task-Manager-MERN"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://task-manager-mern.web.app/">View Demo</a>
